@@ -1,5 +1,5 @@
 # Password
-<h3>Check password validity rules:<h3>
+<h3>Check password validity rules:</h3>
 You are provided with the so-called "check string", where:
 • The first character is a digit that represents the number of uppercase symbols in the correct password.
 • The next 3 characters are last 3 characters of the correct password in reverse order.
