@@ -7,7 +7,7 @@
 </br>Find the correct password
 </br>Examples:
 </br>Input: ["P@ssWORD1","20passWORD20", "PASSword"] , "4dro6"
-</br>Output: PASSword
+</br>Output: PASS6word
 </br>Input: ["theBestpassword", "myPassword#3"], "1dro0"
 </br>Output: theBestpassword
 </br>Input: ["MyPassword2", "crazyPassword1#$%"], "1%$#1"
